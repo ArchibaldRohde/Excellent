@@ -1,0 +1,11 @@
+// sit in test as verkeerd //
+
+  inc(iBrutus);
+  if iBrutus := 4 then
+  begin
+     showMessage('Password or username entered incorrectly too many times. Please try again in 20sec');
+  end;
+
+//swan lake//
+
+...9mei...
